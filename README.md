@@ -5,6 +5,7 @@
 </a> QGIS - Un Sistema de Información Geográfica Libre y de Código Abierto.
 QGIS Ecuador es el Grupo Oficial de Usuarios de QGIS en Ecuador, reconocidos oficialmente por el proyecto QGIS INTERNACIONAL, otorgándole a nuestro país voz y voto ante el Comité internacional.
 <br>
+<br>
 Siguenos en nuestras redes
 <br>
 <br>
