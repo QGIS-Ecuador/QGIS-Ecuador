@@ -7,5 +7,6 @@ QGIS Ecuador es el Grupo Oficial de Usuarios de QGIS en Ecuador, reconocidos ofi
 <br>
 Siguenos en nuestras redes
 <br>
+<br>
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/qgisecuador/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/qgisecuador) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/QGIS-Ecuador) 
 <br>
